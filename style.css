@@ -1,0 +1,92 @@
+nav{
+    background-color :rgba(219, 162, 88, 0.959)
+    
+}
+
+
+#regular, #odd, #cure, #weird, #cures{
+    text-align: center;
+}
+
+body{
+    background-color:rgba(194, 144, 97, 0.904)
+}
+
+h1{
+    
+}
+.card {
+    margin-top: 40px;
+    border-style: solid; 
+    border-color: black;
+    border-width: 2px;
+}
+
+.logo{
+    height: 50px;
+}
+.card-img-top {
+    width: 284px; height: 150px; margin:auto !important 
+    }
+.card {
+    width:150px; height:375px; margin-top:200px !important
+}
+
+.box{
+    border-style:groove
+}
+
+footer {
+    background-color: #ECAF84;
+
+}
+
+svg {
+    font-size:20px; margin:auto !important
+}
+
+.container{
+    text-align: center;
+    color:;
+}
+main {
+    text-align: center;
+}
+header {
+    border-color: blanchedalmond
+    
+}
+#popular {
+    border-style:double;
+    
+}
+
+#colortime{
+    color: crimson;
+}
+
+
+.navbar-toggler {
+    color:red
+}
+
+.nav-link{
+    color:black
+}
+
+#title {
+    color: blueviolet;
+    
+}
+
+{
+    color: rgb(255, 0, 0);
+}
+
+
+
+
+
+
+
+
